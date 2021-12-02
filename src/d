@@ -1,0 +1,48 @@
+[33mcommit 16c47299f2cf7435e4c8209733addbfc0dcb00d0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: f859a7a 7da0b32
+Author: Tomas <210099@fppiramide.com>
+Date:   Thu Dec 2 00:38:16 2021 +0100
+
+    Añadi y mejor perros
+
+[33mcommit f859a7a71b32e9c10f1e9fb92a7773b5c29eb0e7[m[33m ([m[1;31morigin/perroSeReproduce[m[33m, [m[1;32mperroSeReproduce[m[33m)[m
+Author: Tomas <210099@fppiramide.com>
+Date:   Thu Dec 2 00:18:41 2021 +0100
+
+    Añado clases Perro y prueba
+
+[33mcommit 7da0b3286fe7b9f11653dc38e401fa99cb34502e[m
+Author: S4tr4 <94354394+S4tr4@users.noreply.github.com>
+Date:   Tue Nov 30 09:22:43 2021 +0100
+
+    Perro puede morder y herir
+
+[33mcommit 295d2af0147276e87a1dbfd732e75f3a853513c1[m
+Author: S4tr4 <94354394+S4tr4@users.noreply.github.com>
+Date:   Tue Nov 30 09:21:52 2021 +0100
+
+    perro1 más completo con esta herido
+
+[33mcommit edb93b4c446624b6ddaf42a878b575f309c78a7a[m
+Author: Tomas <210099@fppiramide.com>
+Date:   Mon Nov 29 23:22:28 2021 +0100
+
+    Primer perro hecho, modificar aun el random de gustos
+
+[33mcommit 6f8f449017d916c38dbca2ce77d7a8d3942defe7[m
+Author: Tomas <210099@fppiramide.com>
+Date:   Mon Nov 29 23:17:53 2021 +0100
+
+    Perro sin Override y primer perro
+
+[33mcommit 66b55d1763d7612265d6eb18ada8377ce1ebaaa8[m
+Author: Tomas <210099@fppiramide.com>
+Date:   Mon Nov 29 23:04:56 2021 +0100
+
+    agrego cosas
+
+[33mcommit 733d2aefc4ab18f8d00849d7bd24e3399dc243a0[m
+Author: Tomas <210099@fppiramide.com>
+Date:   Mon Nov 29 22:35:36 2021 +0100
+
+    Empiezo la clase perro
