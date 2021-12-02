@@ -104,6 +104,10 @@ public class Perro {
 	public boolean estaHerido() {
 		return this.estaHerido;
 	}
+	
+	public void setHerido() {
+		 this.estaHerido=true;
+	}
 
 	public boolean haMordidoAntes() {
 		if (this.gustos.equals(gustosGeneral[3]))
